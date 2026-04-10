@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Alabama, US",
+  "export_job_id": "f7812d53-608c-4d3f-9c1e-4b07ee8a7ad6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 106138,
+  "location_name": "Alabama",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-alabama-us-sample-106138",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/106138/beamstation_106138_restaurants-us-al_SAMPLE_DIST.csv",
+  "sample_pct": 9.59,
+  "sample_records": 7,
+  "sample_sha256": "39efd2c3d5e76ac24bb5583769488b824f2fce360e9a274ec9989f39ffc6b046",
+  "sample_size_bytes": 40448,
+  "total_records": 73,
+  "updated_at": "2026-04-08T06:51:25.921199+00:00"
+}
