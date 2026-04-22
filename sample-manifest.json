@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f4eae64a-3808-404a-a339-aee14a8b7fc1",
+  "export_job_id": "dfc594ee-352b-4065-ae23-92c482814abe",
   "id_short": 106138,
-  "published_at": "2026-04-19T07:25:20Z",
+  "published_at": "2026-04-22T19:13:07Z",
   "repo_name": "restaurant-social-ghosts-in-alabama-us-sample-106138",
   "sample_asset_name": "beamstation_106138_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/106138/beamstation_106138_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "13731c6029678e2235f9a0ca36fce89355f612fd1ff4e7cf64e8002cf2daaf72",
-  "sample_size_bytes": 37326,
-  "total_records": 79
+  "sample_records": 1,
+  "sample_sha256": "0ee1f9e2d1e20ab504c72edb028391e48c10673a3e1aeac8a52f797bbcc1ad89",
+  "sample_size_bytes": 19978,
+  "total_records": 15
 }
