@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Alabama, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `106138` |
 | Location | Alabama |
 | Category | Restaurants |
-| Full dataset size | 79 records |
-| Free sample size | 7 records (8.86%) |
-| Last export | 2026-04-15T10:22:37.377231+00:00 |
+| Full dataset size | 15 records |
+| Free sample size | 1 records (6.67%) |
+| Last export | 2026-04-22T17:52:37.007186+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-alabama-us-sample-106138/releases/download/sample-latest/beamstation_106138_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
